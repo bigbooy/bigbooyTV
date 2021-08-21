@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+https://etslive-2-vidio-com.akamaized.net/exp=1619370061~acl=/hls-p/ingest_7676_*/*~hmac=5eb67b30fbd5026e33ec219c65a64a4919b28446b96e5a0b0a5db09d820da6fa/hls-p/ingest_7676_1080p/index.m3u8
